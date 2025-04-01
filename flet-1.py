@@ -1,4 +1,4 @@
-# Impoting libraries
+# Hola mundo con Flet
 import flet as ft
 
 def main(page:ft.Page):
